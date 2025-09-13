@@ -1,5 +1,3 @@
 def helloWorld(message):
-    result = f"""
-            {message}
-        """
+    result = f"Users: {message}"
     return result
